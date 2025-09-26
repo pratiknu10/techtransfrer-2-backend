@@ -1,0 +1,112 @@
+
+# analytical method SOP document
+
+{
+  "Category_Name": "Process Definition",
+  "Document_Name": "Analytical Method SOPs",
+  "Product_Name": "not available",
+  "Strength": "not available",
+  "Dosage_Form": "not available",
+  "CQA": [
+    "Assay",
+    "%Impurities",
+    "ppm each solvent",
+    "% w or % w water"
+  ],
+  "CPP": [
+    "Column Temp",
+    "Flow",
+    "Injection Volume",
+    "Mobile Phase",
+    "Gradient",
+    "Carrier",
+    "Oven",
+    "Injector",
+    "Detector",
+    "Headspace",
+    "Generator current",
+    "Stir speed"
+  ],
+  "UAHBTDRS CODE": 1
+}
+
+
+
+
+# Method Validation Reports 
+
+ {
+   "Category_Name": "Process Definition",
+        "Document_Name": "Method Validation Reports Tech Transfer Package",
+        "Product_Name": "not available",
+        "Strength": "not available",
+        "Dosage_Form": "not available",
+        "CQA": [
+          "Specificity",
+          "Linearity",
+          "Accuracy",
+          "Precision",
+          "LOD",
+          "Robustness"
+        ],
+        "CPP": [
+          "Flow rate",
+          "Temperature",
+          "Mobile phase composition",
+          "Equilibration time"
+        ],
+        "UAHBTDRS CODE": 4
+      },
+
+
+# Reference Standards and Certifications 
+
+ {
+        "Category_Name": "Process Definition",
+        "Document_Name": "Reference Standards & Certificates Tech Transfer Package",
+        "Product_Name": "API Reference Standard",
+        "Strength": "99.90%",
+        "Dosage_Form": "not available",
+        "CQA": [
+          "Purity",
+          "Potency"
+        ],
+        "CPP": [
+          "Storage",
+          "Expiry"
+        ],
+        "UAHBTDRS CODE": 4
+      },
+
+
+
+# Stability Protocol
+
+📊 ===== PARSED LLM OUTPUT =====
+{
+  "Category_Name": "Process Definition",
+  "Document_Name": "Stability Protocols Tech Transfer Package",
+  "Product_Name": "API",
+  "Strength": "not available",
+  "Dosage_Form": "not available",
+  "CQA": [
+    "Appearance",
+    "Assay (content)",
+    "Related Substances",
+    "Residual Solvents",
+    "Water Content",
+    "Particle Size",
+    "Microbial Limits"
+  ],
+  "CPP": [
+    "Temperature",
+    "Humidity",
+    "Time points"
+  ],
+  "UAHBTDRS CODE": 6
+}
+
+
+
+
+      
