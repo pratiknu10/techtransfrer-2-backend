@@ -441,13 +441,13 @@ class DocumentLLMService {
         response.data.choices?.[0]?.finish_reason
       );
       console.log("  - Token Usage:", response.data.usage);
-
+      console.log(response);
       const responseContent = response.data.choices[0].message.content;
+      console.log("responseContent======>>>>>", responseContent);
 
       console.log("🤖 ===== COMPLETE LLM RESPONSE =====");
       console.log("Full LLM Output:");
       console.log("=".repeat(100));
-      console.log(responseContent);
       console.log("=".repeat(100));
       console.log("🤖 ===== END OF LLM RESPONSE =====");
 
